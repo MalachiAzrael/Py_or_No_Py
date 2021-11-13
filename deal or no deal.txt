@@ -1,0 +1,27 @@
+boxes = {Dict of boxes with linked values defaulting at 0}
+values = [List of various values]
+chosen_box = user input
+round = tracks which round is being played
+remaining_value = avarage value of remaining boxes
+
+block to assign a random value to a random box
+
+user plays 5 rounds before banker
+
+banker offers adverage value rounded down to 3s.f.
+
+decide deal or no deal.
+	if deal reveal their box for comparison
+	if no deal continue game
+
+
+to add
+banker cunt value
+storylines
+    will be kind because noel slept with your wife
+box 23
+
+
+
+
+
